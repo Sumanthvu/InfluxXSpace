@@ -461,7 +461,7 @@ export default function GameBoard({
   return (
     <div className="max-w-4xl mx-auto">
       <div className="text-center mb-6">
-        <h1 className="text-4xl font-bold text-white mb-2">Space Puzzle Game</h1>
+        <h1 className="text-4xl font-bold text-white mb-2">Into Stellar </h1>
         <p className="text-gray-300">Use arrow keys to move • Collect all keys • Reach the spaceship</p>
       </div>
 

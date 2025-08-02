@@ -362,13 +362,13 @@ export default function HomePage() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
+    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-gray-900 to-slate-900">
       <Navigation />
       <div className="container mx-auto px-4 py-8">
         {/* Hero Section */}
         <div className="text-center mb-12">
           <h1 className="text-6xl font-bold text-white mb-4 bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
-            Space Puzzle
+            Into Stellar
           </h1>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
             Navigate through space, collect keys, avoid enemies, and earn blockchain rewards in this thrilling puzzle
